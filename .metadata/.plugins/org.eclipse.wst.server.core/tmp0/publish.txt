@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Jan 10 14:35:45 COT 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\5.0.3.RELEASE\\spring-web-5.0.3.RELEASE.jar=C\:\\pcc\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\JavaWebAvanzado-Sesion06-1\\WEB-INF\\lib\\spring-web-5.0.3.RELEASE.jar
+org.eclipse.jst.jee.server\:JavaWebAvanzado-Sesion06-1=C\:\\pcc\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\JavaWebAvanzado-Sesion06-1

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;JavaWebAvanzado-Sesion06-1&apos;&#x0D;&#x0A;- Original project: &apos;JavaWebAvanzado-Sesion06-1&apos;&#x0D;&#x0A;- Original element: &apos;JavaWebAvanzado-Sesion06-1/src/main/java/com.tecsup.gestion.dao.jdbc&apos;" description="Delete element" element1="/src\/main\/java&lt;com.tecsup.gestion.dao.jdbc" element2="/src\/main\/java&lt;com.tecsup.gestion.dao" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1546382901597" subPackages="false" version="1.0"/>
+</session>
